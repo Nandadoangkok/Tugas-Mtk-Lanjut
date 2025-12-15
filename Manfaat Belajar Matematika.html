@@ -97,7 +97,6 @@
             transform: scale(1.05);
         }
         .highlight {
-
             background-color: #ecf0f1;
             padding: 10px;
             border-left: 5px solid #3498db;
@@ -178,3 +177,4 @@
     </div>
 </body>
 </html>
+
